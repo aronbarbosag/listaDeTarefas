@@ -31,3 +31,9 @@ section {
 .desenho img {
   height: 60vh;
 }
+
+@media (max-width: 786px) {
+  .desenho img {
+    width: 98vw;
+  }
+}
